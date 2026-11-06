@@ -1,0 +1,13 @@
+#  PEOPLEBOX.AI  :  CLIENT NAME
+
+
+python -m venv .venv
+
+.venv\Scripts\Activate
+
+
+streamlit run app1.py
+
+pip install -r requirements.txt
+
+app.py --running
